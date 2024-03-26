@@ -6,7 +6,7 @@
 - 📫 How to reach me [...](https://www.linkedin.com/in/inga-ivanov/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: "With Turkish blood in my veins, a German name,
-  a Bulgarian surname, and growing up in a Romanian-speaking country,
+  a Bulgarian surname, and growing up in a Romanian and Russian-speaking country,
   my cultural tapestry is as rich and varied as the threads of a finely woven carpet from the Grand Bazaar :)"
 
 <!---
